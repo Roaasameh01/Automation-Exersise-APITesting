@@ -1,0 +1,1 @@
+This repository contains API testing automation exercises, including test cases for different endpoints, validation of HTTP methods (GET, POST, PUT, DELETE), response status codes, and data verification.
